@@ -1,0 +1,3242 @@
+{
+  "intents": [
+    {
+      "intent": "Customer_Care_Store_Hours",
+      "examples": [
+        {
+          "text": "What are your hous?"
+        },
+        {
+          "text": "What is the opening time for the washington store?"
+        },
+        {
+          "text": "What time are you closing today?"
+        },
+        {
+          "text": "What time do stores close?"
+        },
+        {
+          "text": "What time does the central manchester store shut on a saturday?"
+        },
+        {
+          "text": "What time is your store open on saturday?"
+        },
+        {
+          "text": "Are you open on bank holidays?"
+        },
+        {
+          "text": "At what hour can I swing by?"
+        },
+        {
+          "text": "Are you open during thanksgiving?"
+        },
+        {
+          "text": "How early do you open?"
+        },
+        {
+          "text": "Does the store in the city center opens till 8pm on weekends?"
+        },
+        {
+          "text": "Can you tell me how late the stores are open till?"
+        },
+        {
+          "text": "Are you open on sundays, and if so what are the hours?"
+        },
+        {
+          "text": "Are the stores open early?"
+        },
+        {
+          "text": "How long are you open?"
+        },
+        {
+          "text": "Is the branch open now?"
+        },
+        {
+          "text": "What are the business hours of the store nearest to me?"
+        },
+        {
+          "text": "What are the hours of operation?"
+        },
+        {
+          "text": "What are the saturday opening times for the local store?"
+        },
+        {
+          "text": "What are ur opening hours?"
+        }
+      ],
+      "description": "Find business hours."
+    },
+    {
+      "intent": "namedorders",
+      "examples": [
+        {
+          "text": "colgate"
+        },
+        {
+          "text": "sensodyne"
+        },
+        {
+          "text": "pepsodent"
+        },
+        {
+          "text": "mysore sandal"
+        },
+        {
+          "text": "dabur red"
+        },
+        {
+          "text": "dettol"
+        },
+        {
+          "text": "closeup"
+        },
+        {
+          "text": "pantene"
+        },
+        {
+          "text": "santoor"
+        },
+        {
+          "text": "tide"
+        },
+        {
+          "text": "nirma"
+        },
+        {
+          "text": "rin"
+        },
+        {
+          "text": "wheel"
+        },
+        {
+          "text": "clinic plus"
+        },
+        {
+          "text": "head&shoulders"
+        },
+        {
+          "text": "head and shoulders"
+        },
+        {
+          "text": "himalaya"
+        },
+        {
+          "text": "medimix"
+        },
+        {
+          "text": "surfexcel"
+        },
+        {
+          "text": "pears"
+        },
+        {
+          "text": "meera"
+        },
+        {
+          "text": "chick"
+        },
+        {
+          "text": "dove"
+        },
+        {
+          "text": "cinthol"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "General_Agent_Capabilities",
+      "examples": [
+        {
+          "text": "What are you used for?"
+        },
+        {
+          "text": "What are you capable of?"
+        },
+        {
+          "text": "What are you able to understand?"
+        },
+        {
+          "text": "What are you able to deal with?"
+        },
+        {
+          "text": "What are my options?"
+        },
+        {
+          "text": "What are my options that you can help with?"
+        },
+        {
+          "text": "Tell me something"
+        },
+        {
+          "text": "Tell me about what kind of things you do?"
+        },
+        {
+          "text": "Is there anything you can help me with?"
+        },
+        {
+          "text": "I'd like to know what type of questions you can answer for me."
+        },
+        {
+          "text": "How can you solve my problems?"
+        },
+        {
+          "text": "How can you help me?"
+        },
+        {
+          "text": "How can I use you?"
+        },
+        {
+          "text": "Hi, what do you do?"
+        },
+        {
+          "text": "Help now"
+        },
+        {
+          "text": "Do you have a list of things I can talk to you about?"
+        },
+        {
+          "text": "Can you tell me what services you are able to help me with?"
+        },
+        {
+          "text": "Can you please give me a list of the types of things you can help me with?"
+        },
+        {
+          "text": "I do not know what to ask"
+        },
+        {
+          "text": "How do I use you?"
+        },
+        {
+          "text": "What do you handle?"
+        },
+        {
+          "text": "What do you do?"
+        },
+        {
+          "text": "What can I ask you to do?"
+        },
+        {
+          "text": "What are your skills?"
+        },
+        {
+          "text": "What are you good at?"
+        },
+        {
+          "text": "Where can I find the frequently asked questions?"
+        },
+        {
+          "text": "What kinds of things can you do?"
+        },
+        {
+          "text": "What is this 4?"
+        },
+        {
+          "text": "What features are in here?"
+        },
+        {
+          "text": "What else can you help me with?"
+        }
+      ],
+      "description": "Request capabilities of the bot."
+    },
+    {
+      "intent": "question",
+      "examples": [
+        {
+          "text": "what can you do for me?"
+        },
+        {
+          "text": "how can you help me?"
+        },
+        {
+          "text": "what do you help with?"
+        },
+        {
+          "text": "what are your abilities?"
+        },
+        {
+          "text": "hey, how can you help me?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "General_Security_Assurance",
+      "examples": [
+        {
+          "text": "Conversation secure?"
+        },
+        {
+          "text": "Will my conversation remain secured?"
+        },
+        {
+          "text": "Why would I trust this chat?"
+        },
+        {
+          "text": "What safety measures are used to ensure that chat is secure?"
+        },
+        {
+          "text": "What makes this chat trustworthy?"
+        },
+        {
+          "text": "What guards do you have in place to protect your customer's data?"
+        },
+        {
+          "text": "Secure conversation?"
+        },
+        {
+          "text": "Protection hacks?"
+        },
+        {
+          "text": "Precautions hackers?"
+        },
+        {
+          "text": "Is this conversation secure?"
+        },
+        {
+          "text": "Is this an official chat?"
+        },
+        {
+          "text": "Is this a trusted chat site?"
+        },
+        {
+          "text": "Is there a reason to distrust this chat?"
+        },
+        {
+          "text": "Is my payment information secure?"
+        },
+        {
+          "text": "Is my card info secure?"
+        },
+        {
+          "text": "In what way can I tell if my plastic is safe?"
+        },
+        {
+          "text": "I'd like proof of a secure chat"
+        },
+        {
+          "text": "How safe is my data?"
+        },
+        {
+          "text": "How is my credit card info secured?"
+        },
+        {
+          "text": "How do I know this chat is not a scam?"
+        },
+        {
+          "text": "How do I know if my card info is kept safe?"
+        },
+        {
+          "text": "Do you have protection against hacks?"
+        },
+        {
+          "text": "Customer info secured?"
+        },
+        {
+          "text": "Can I be sure that my stored card details are held securely?"
+        },
+        {
+          "text": "Are you safe?"
+        },
+        {
+          "text": "Are you safe on hackers?"
+        }
+      ],
+      "description": "Express concerns about the security of the bot."
+    },
+    {
+      "intent": "doubts",
+      "examples": [
+        {
+          "text": "tell me how much the total cost?"
+        },
+        {
+          "text": "What is the total?"
+        },
+        {
+          "text": "How much is the total?"
+        },
+        {
+          "text": "I'd like to pay the bill just let me see it"
+        },
+        {
+          "text": "bill?"
+        },
+        {
+          "text": "can i have the bill?"
+        },
+        {
+          "text": "I would like to know the amount"
+        }
+      ],
+      "description": "customer doubts"
+    },
+    {
+      "intent": "General_Jokes",
+      "examples": [
+        {
+          "text": "Can you tell me a joke?"
+        },
+        {
+          "text": "What is your favorite joke?"
+        },
+        {
+          "text": "What do you do for fun?"
+        },
+        {
+          "text": "Tell me something funny"
+        },
+        {
+          "text": "Tell me a joke"
+        },
+        {
+          "text": "Surprise me with something hilarious"
+        },
+        {
+          "text": "One more joke"
+        },
+        {
+          "text": "I'm bored"
+        },
+        {
+          "text": "I want a joke"
+        },
+        {
+          "text": "I am getting bored"
+        },
+        {
+          "text": "Do you like humor?"
+        },
+        {
+          "text": "Do you like fun?"
+        },
+        {
+          "text": "Do you have humor?"
+        },
+        {
+          "text": "Do you have a joke?"
+        },
+        {
+          "text": "Another joke"
+        },
+        {
+          "text": "Are there jokes?"
+        },
+        {
+          "text": "Can you tell a joke?"
+        }
+      ],
+      "description": "Request a joke."
+    },
+    {
+      "intent": "eCommerce_Make_A_Payment",
+      "examples": [
+        {
+          "text": "Pay my account"
+        },
+        {
+          "text": "Request bill pay"
+        },
+        {
+          "text": "Right now, I am in a different city and how to make cash payment as today is the due date"
+        },
+        {
+          "text": "Schedule payment"
+        },
+        {
+          "text": "Want to pay"
+        },
+        {
+          "text": "I think I'm gonna pay the bill"
+        },
+        {
+          "text": "I want to make a one time payment and enter my debit card payment information"
+        },
+        {
+          "text": "I want to make payment"
+        },
+        {
+          "text": "I want to pay my bill with a credit card"
+        },
+        {
+          "text": "I would like to ask a question about making a payment."
+        },
+        {
+          "text": "I also want to make a payment when I have you here on chat"
+        },
+        {
+          "text": "I need to pay the cost of my service plan"
+        },
+        {
+          "text": "I need to schedule a payment"
+        },
+        {
+          "text": "How can I pay off my balance?"
+        },
+        {
+          "text": "Handle payment?"
+        },
+        {
+          "text": "Can you assist me with paying my bill?"
+        },
+        {
+          "text": "Can I pay my bill?"
+        },
+        {
+          "text": "Can I do a bill payment?"
+        },
+        {
+          "text": "Bugger me I wanna pay me bill"
+        },
+        {
+          "text": "I'd like to pay"
+        }
+      ],
+      "description": "Make a payment."
+    },
+    {
+      "intent": "greeting",
+      "examples": [
+        {
+          "text": "hello!"
+        },
+        {
+          "text": "hey,good morning!"
+        },
+        {
+          "text": "Namasthe!"
+        },
+        {
+          "text": "goodmorning"
+        },
+        {
+          "text": "good morning"
+        },
+        {
+          "text": "heya!"
+        },
+        {
+          "text": "hi"
+        },
+        {
+          "text": "hey"
+        },
+        {
+          "text": "hello"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "ending",
+      "examples": [
+        {
+          "text": "no thanks"
+        },
+        {
+          "text": "That's it"
+        },
+        {
+          "text": "Nothing"
+        },
+        {
+          "text": "no thank you"
+        },
+        {
+          "text": "no these are enough"
+        },
+        {
+          "text": "Nothing much"
+        },
+        {
+          "text": "Nothing more"
+        },
+        {
+          "text": "No"
+        },
+        {
+          "text": "no nothing"
+        },
+        {
+          "text": "i don't want any more"
+        },
+        {
+          "text": "i dont want anything else"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "General_Negative_Feedback",
+      "examples": [
+        {
+          "text": "You are having delusions"
+        },
+        {
+          "text": "Why are you stupid?"
+        },
+        {
+          "text": "Why are you so annoying?"
+        },
+        {
+          "text": "You're too stupid"
+        },
+        {
+          "text": "You are on my nerves"
+        },
+        {
+          "text": "You are very frustrating"
+        },
+        {
+          "text": "You do not seem smart"
+        },
+        {
+          "text": "You're really frustrating"
+        },
+        {
+          "text": "You're really irritating"
+        },
+        {
+          "text": "Do not like you?"
+        },
+        {
+          "text": "Everyone hates you"
+        },
+        {
+          "text": "Hate you"
+        },
+        {
+          "text": "I do not like you"
+        },
+        {
+          "text": "I hate this!"
+        },
+        {
+          "text": "I hate you"
+        },
+        {
+          "text": "It is annoying"
+        },
+        {
+          "text": "Quit annoying me"
+        },
+        {
+          "text": "Robots are boring"
+        },
+        {
+          "text": "Robots are stupid"
+        },
+        {
+          "text": "Stupid"
+        }
+      ],
+      "description": "Express unfavorable feedback."
+    },
+    {
+      "intent": "eCommerce_Product_Order_Status",
+      "examples": [
+        {
+          "text": "Has the order been dispatched yet?"
+        },
+        {
+          "text": "Yes it was attempted for delivery but it says the parcel was refused though we were in the flat"
+        },
+        {
+          "text": "Yes I want to track my order"
+        },
+        {
+          "text": "Where is my order?"
+        },
+        {
+          "text": "When is my new phone supposed to arrive?"
+        },
+        {
+          "text": "What state you are in with my current order?"
+        },
+        {
+          "text": "Tracking number"
+        },
+        {
+          "text": "Shipping status"
+        },
+        {
+          "text": "Please, can you tell me about the status of an orden I made?"
+        },
+        {
+          "text": "Order progress"
+        },
+        {
+          "text": "I would like to check the status of an order I placed recently."
+        },
+        {
+          "text": "I was just wondering if I could check the status of an order I made."
+        },
+        {
+          "text": "I want a status report on an order I made last week."
+        },
+        {
+          "text": "I purchased an item the other day and still haven't received an update about it, have you shipped it yet?"
+        },
+        {
+          "text": "How soon can we expect the new shipment of iphone 7 that was pre ordered last week?"
+        },
+        {
+          "text": "How do I track my shipment?"
+        },
+        {
+          "text": "Has my new phone shipped yet?"
+        },
+        {
+          "text": "Expected to ship"
+        },
+        {
+          "text": "Can you track the whereabouts of this sim I ordered?"
+        },
+        {
+          "text": "Can I check on my order?"
+        }
+      ],
+      "description": "Request status of an order that has been placed."
+    },
+    {
+      "intent": "greet",
+      "examples": [
+        {
+          "text": "how do you do"
+        },
+        {
+          "text": "hey,how are you!"
+        },
+        {
+          "text": "hi,how are you?"
+        },
+        {
+          "text": "hello, how are you?"
+        },
+        {
+          "text": "hi,how do you do?"
+        },
+        {
+          "text": "how are you doing?"
+        },
+        {
+          "text": "how are you?"
+        },
+        {
+          "text": "how are you"
+        },
+        {
+          "text": "how do you do?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "correctorders",
+      "examples": [
+        {
+          "text": "dozen carrots"
+        },
+        {
+          "text": "i need 1 lit milk"
+        },
+        {
+          "text": "i need 1 litre of milk"
+        },
+        {
+          "text": "i need 1/2 lit milk"
+        },
+        {
+          "text": "i need 1kg of chicken"
+        },
+        {
+          "text": "i need 1litre milk"
+        },
+        {
+          "text": "i need half litre milk"
+        },
+        {
+          "text": "i want 1 kg of basumati rice"
+        },
+        {
+          "text": "i want 1 litre milk"
+        },
+        {
+          "text": "i want 1/2 kg apples"
+        },
+        {
+          "text": "i want 1/2 kg cucumber"
+        },
+        {
+          "text": "i want 1/2 kg ladies finger"
+        },
+        {
+          "text": "i want 1/2 kg of tomatoes"
+        },
+        {
+          "text": "i want 1/2 kg tamarind"
+        },
+        {
+          "text": "i want 1/2kg of bitter guard"
+        },
+        {
+          "text": "i want 1/2kg potatoes"
+        },
+        {
+          "text": "i want 1/2kilo jaggery"
+        },
+        {
+          "text": "i want 1/4 kg carrot"
+        },
+        {
+          "text": "i want 100g of turmeric powder"
+        },
+        {
+          "text": "i want 1kg all purpose flour"
+        },
+        {
+          "text": "i want 1kg chicken"
+        },
+        {
+          "text": "i want 1kg of beetroot"
+        },
+        {
+          "text": "i want 1kg of chicken"
+        },
+        {
+          "text": "i want 1kg of rice"
+        },
+        {
+          "text": "i want 1kg of sugar"
+        },
+        {
+          "text": "i want 1lit milk"
+        },
+        {
+          "text": "i want 2 kgs chicken"
+        },
+        {
+          "text": "i want 2 kgs of chicken"
+        },
+        {
+          "text": "i want 2 kgs of gram flour"
+        },
+        {
+          "text": "i want 250g of ginger"
+        },
+        {
+          "text": "i want 250g of oats"
+        },
+        {
+          "text": "i want 250g of tea powder"
+        },
+        {
+          "text": "i want 250g rock salt"
+        },
+        {
+          "text": "i want 250g salt"
+        },
+        {
+          "text": "i want 2kg of fish"
+        },
+        {
+          "text": "i want 2kg of mutton"
+        },
+        {
+          "text": "i want 2kg of wheat flour"
+        },
+        {
+          "text": "i want 2kg onions"
+        },
+        {
+          "text": "i want 2kgs chicken"
+        },
+        {
+          "text": "i want 500g chilli powder"
+        },
+        {
+          "text": "i want 500g coffee powder"
+        },
+        {
+          "text": "i want apples"
+        },
+        {
+          "text": "i want mangoes"
+        },
+        {
+          "text": "i want some mangoes"
+        },
+        {
+          "text": "i would like to have 1kg of chicken"
+        },
+        {
+          "text": "can i have some chicken"
+        },
+        {
+          "text": "1kg chicken"
+        },
+        {
+          "text": "12 eggs"
+        },
+        {
+          "text": "1kilo chicken"
+        },
+        {
+          "text": "2kgs chicken"
+        },
+        {
+          "text": "1kg of chicken"
+        },
+        {
+          "text": "1litre milk"
+        },
+        {
+          "text": "1/2kg tomatoes"
+        },
+        {
+          "text": "1lit milk"
+        },
+        {
+          "text": "2kg chicken"
+        },
+        {
+          "text": "1kg potatoes"
+        },
+        {
+          "text": "1/2kg potatoes"
+        },
+        {
+          "text": "1kg tomatoes"
+        },
+        {
+          "text": "1/2kg apples"
+        },
+        {
+          "text": "1 kg of chicken"
+        },
+        {
+          "text": "2kgs of chicken"
+        },
+        {
+          "text": "i want 10 eggs"
+        },
+        {
+          "text": "10 eggs"
+        },
+        {
+          "text": "dozen eggs"
+        },
+        {
+          "text": "6 eggs"
+        },
+        {
+          "text": "dozen apples"
+        },
+        {
+          "text": "half dozen eggs"
+        },
+        {
+          "text": "dozen mangoes"
+        }
+      ],
+      "description": "orders which are placed by mentioning the quantity"
+    },
+    {
+      "intent": "General_Positive_Feedback",
+      "examples": [
+        {
+          "text": "Can't believe you are that good"
+        },
+        {
+          "text": "How cool is this?"
+        },
+        {
+          "text": "I like what you did there! :)"
+        },
+        {
+          "text": "I'm looking forward to working with you again! :)"
+        },
+        {
+          "text": "Love your work"
+        },
+        {
+          "text": "Ok thank you"
+        },
+        {
+          "text": "Thank you"
+        },
+        {
+          "text": "You've been so helpful :)"
+        },
+        {
+          "text": "You're a genius!"
+        },
+        {
+          "text": "You the man"
+        },
+        {
+          "text": "This is good"
+        },
+        {
+          "text": "This is great"
+        },
+        {
+          "text": "This is so cool"
+        },
+        {
+          "text": "You are awesome"
+        },
+        {
+          "text": "You are great"
+        },
+        {
+          "text": "You gave me exactly what I need!"
+        },
+        {
+          "text": "You are wonderful"
+        },
+        {
+          "text": "You are the best"
+        },
+        {
+          "text": "Brilliant!"
+        }
+      ],
+      "description": "Express positive sentiment or gratitude."
+    },
+    {
+      "intent": "eCommerce_Cancel_Product_Order",
+      "examples": [
+        {
+          "text": "I need to cancel the most recent order. how do I do this?"
+        },
+        {
+          "text": "I need to speak to someone about an order I made not long ago, I need to cancel it please"
+        },
+        {
+          "text": "I need to cancel an order that I placed."
+        },
+        {
+          "text": "I made an order yesterday, can I cancel it?"
+        },
+        {
+          "text": "Can you help me to cancel my last order?"
+        },
+        {
+          "text": "Can you help me to cancel the order which I just placed a few minutes ago?"
+        },
+        {
+          "text": "Cancel existing order"
+        },
+        {
+          "text": "Cancel order placed earlier"
+        },
+        {
+          "text": "Cancel order submitted today"
+        },
+        {
+          "text": "How can I cancel my order of your extended data service?"
+        },
+        {
+          "text": "How can I cancel my previous order?"
+        },
+        {
+          "text": "I just placed and order, but I need to cancel it."
+        },
+        {
+          "text": "Please cancel the order that was recently placed."
+        },
+        {
+          "text": "Please cancel the order I've made this morning"
+        },
+        {
+          "text": "I've bought an keyboard and id like to cancel it"
+        },
+        {
+          "text": "I wish to cancel my recent order"
+        },
+        {
+          "text": "I wish to cancel my last order."
+        },
+        {
+          "text": "I want to cancel the order"
+        },
+        {
+          "text": "I want to cancel the new device switch order I placed"
+        },
+        {
+          "text": "I recently placed an order for a new phone online. I've changed my mind. can you please cancel my order?"
+        }
+      ],
+      "description": "Cancel an order."
+    },
+    {
+      "intent": "eCommerce_Refund_Payment",
+      "examples": [
+        {
+          "text": "Can you refund all payments?"
+        },
+        {
+          "text": "My credit card was double charged for my last bill. how do I get the extra charge refunded to it?"
+        },
+        {
+          "text": "Is it possible to refund the latest payment that I made?"
+        },
+        {
+          "text": "If I cancel some services which have been prepaid, can I receive a refund for part of what has already been paid? what is your refund policy?"
+        },
+        {
+          "text": "I paid my bill twice last month. can you refund my last payment?"
+        },
+        {
+          "text": "I would like a refund for the service outage last month please."
+        },
+        {
+          "text": "I was overcharged on my last bill, I need that refunded."
+        },
+        {
+          "text": "I was charged for services that I don't subscribe to. how can I go about getting a refund"
+        },
+        {
+          "text": "I want a refund on the previous purchase I made."
+        },
+        {
+          "text": "Who do I have to speak to get a refund on one of my payments?"
+        },
+        {
+          "text": "Where can I get refunds?"
+        },
+        {
+          "text": "Refund my payment"
+        },
+        {
+          "text": "My service was interrupted for 5 days. I would like a refund based on the time that the service was unavailable."
+        },
+        {
+          "text": "I am unfairly charged. am I going to be refunded?"
+        },
+        {
+          "text": "Do I get a refund if I paid too much?"
+        },
+        {
+          "text": "Can I just have a full refund?"
+        },
+        {
+          "text": "Can I get my last month refunded due to the contract cancelation?"
+        },
+        {
+          "text": "Can I get a refund when my internet was out for 6 hours?"
+        },
+        {
+          "text": "Can I get a refund on the activation fee?"
+        },
+        {
+          "text": "Arrange refund"
+        }
+      ],
+      "description": "Request a refund for a payment."
+    },
+    {
+      "intent": "eCommerce_Create_Product_Order",
+      "examples": [
+        {
+          "text": "Can I order some products?"
+        },
+        {
+          "text": "Can you tell me which phones are on sale this week? I want to buy a new phone?"
+        },
+        {
+          "text": "I need some assistance in purchasing a pre paid mobile phone as well as a sim"
+        },
+        {
+          "text": "I need jeans"
+        },
+        {
+          "text": "I need a new cell phone"
+        },
+        {
+          "text": "I am ready to order now."
+        },
+        {
+          "text": "How do I go about placing an order with you?"
+        },
+        {
+          "text": "Where to buy a camera?"
+        },
+        {
+          "text": "Where I can order?"
+        },
+        {
+          "text": "What are the methods to place an order?"
+        },
+        {
+          "text": "Purchase something new"
+        },
+        {
+          "text": "Place order for device"
+        },
+        {
+          "text": "Order and payment for device"
+        },
+        {
+          "text": "Ok order this for me"
+        },
+        {
+          "text": "Make the order again"
+        },
+        {
+          "text": "I would like to purchase a new device for cash"
+        },
+        {
+          "text": "I would like a sim"
+        },
+        {
+          "text": "I want to reorder"
+        },
+        {
+          "text": "Help me to create a new order"
+        },
+        {
+          "text": "Buy accessories"
+        }
+      ],
+      "description": "Place an order."
+    },
+    {
+      "intent": "quantitylessproducts",
+      "examples": [
+        {
+          "text": "Basumati rice"
+        },
+        {
+          "text": "onions"
+        },
+        {
+          "text": "potato"
+        },
+        {
+          "text": "carrot"
+        },
+        {
+          "text": "tomato"
+        },
+        {
+          "text": "vegetables"
+        },
+        {
+          "text": "ginger"
+        },
+        {
+          "text": "bitter guard"
+        },
+        {
+          "text": "cucumber"
+        },
+        {
+          "text": "beetroot"
+        },
+        {
+          "text": "tamarind"
+        },
+        {
+          "text": "fish"
+        },
+        {
+          "text": "chicken"
+        },
+        {
+          "text": "mutton"
+        },
+        {
+          "text": "milk"
+        },
+        {
+          "text": "do you sell chicken?"
+        },
+        {
+          "text": "rice"
+        },
+        {
+          "text": "coffee powder"
+        },
+        {
+          "text": "chilli powder"
+        },
+        {
+          "text": "jaggery"
+        },
+        {
+          "text": "oats"
+        },
+        {
+          "text": "wheat flour"
+        },
+        {
+          "text": "turmeric powder"
+        },
+        {
+          "text": "sugar"
+        },
+        {
+          "text": "tea powder"
+        },
+        {
+          "text": "salt"
+        },
+        {
+          "text": "gram flour"
+        },
+        {
+          "text": "all purpose flour"
+        },
+        {
+          "text": "ladies finger"
+        }
+      ],
+      "description": "Things that are asked for without mentioning their quantities."
+    },
+    {
+      "intent": "General_Greetings",
+      "examples": [
+        {
+          "text": "Hello"
+        },
+        {
+          "text": "You there"
+        },
+        {
+          "text": "Who is this?"
+        },
+        {
+          "text": "What's up?"
+        },
+        {
+          "text": "What's new?"
+        },
+        {
+          "text": "Ok take me back"
+        },
+        {
+          "text": "Looking good eve"
+        },
+        {
+          "text": "How r u?"
+        },
+        {
+          "text": "How is it going?"
+        },
+        {
+          "text": "How have you been?"
+        },
+        {
+          "text": "How are you today?"
+        },
+        {
+          "text": "How are things going?"
+        },
+        {
+          "text": "Hi there"
+        },
+        {
+          "text": "Hi advisor"
+        },
+        {
+          "text": "Hey you"
+        },
+        {
+          "text": "Hey twin"
+        },
+        {
+          "text": "Hey there"
+        },
+        {
+          "text": "Hey there all"
+        },
+        {
+          "text": "Hey how are you doing"
+        },
+        {
+          "text": "Hello I am looking for some help here"
+        },
+        {
+          "text": "Hello Agent"
+        },
+        {
+          "text": "Have you been well?"
+        },
+        {
+          "text": "Greetings"
+        },
+        {
+          "text": "Good to see you"
+        },
+        {
+          "text": "Good morning"
+        },
+        {
+          "text": "Good evening"
+        },
+        {
+          "text": "Good day"
+        }
+      ],
+      "description": "Greet the bot."
+    },
+    {
+      "intent": "eCommerce_Statements",
+      "examples": [
+        {
+          "text": "I need to know more about my paper statements that I receive at home"
+        },
+        {
+          "text": "How do I view my e-bill?"
+        },
+        {
+          "text": "How do I get a previous month's bill?"
+        },
+        {
+          "text": "How can I save statements of credit card?"
+        },
+        {
+          "text": "Help me find my bill"
+        },
+        {
+          "text": "Could you please send a print out of my late statement?"
+        },
+        {
+          "text": "Can I request credit card statement right from this chat window?"
+        },
+        {
+          "text": "Can I get another copy of my bill?"
+        },
+        {
+          "text": "Can I check my bill?"
+        },
+        {
+          "text": "What was my last bill?"
+        },
+        {
+          "text": "What are the steps for checking credit card statement for particular duration?"
+        },
+        {
+          "text": "What are my bills details?"
+        },
+        {
+          "text": "Show my bill"
+        },
+        {
+          "text": "My bank statement shows an unexpected payment to you so I would like a copy of my latest billing statement."
+        },
+        {
+          "text": "Is there any sort of extra fee for paper invoices?"
+        },
+        {
+          "text": "I want to request a credit card statement"
+        },
+        {
+          "text": "I want a physical copy of credit card history"
+        },
+        {
+          "text": "I want a copy of the bill from last month"
+        },
+        {
+          "text": "I wanna see my bill"
+        },
+        {
+          "text": "I seem to have misplaced my most recent billing statement and would appreciate if you sent me a replacement one."
+        }
+      ],
+      "description": "Request a billing statement."
+    },
+    {
+      "intent": "General_Ending",
+      "examples": [
+        {
+          "text": "Have a nice day?"
+        },
+        {
+          "text": "Go away"
+        },
+        {
+          "text": "Go off"
+        },
+        {
+          "text": "Bye bye"
+        },
+        {
+          "text": "Bye now"
+        },
+        {
+          "text": "Catch you later"
+        },
+        {
+          "text": "Cya later"
+        },
+        {
+          "text": "End trial"
+        },
+        {
+          "text": "Ending this session"
+        },
+        {
+          "text": "Finished now, good bye"
+        },
+        {
+          "text": "Get lost"
+        },
+        {
+          "text": "Going now"
+        },
+        {
+          "text": "Good. bye."
+        },
+        {
+          "text": "Goodbye"
+        },
+        {
+          "text": "Hey bot go away"
+        },
+        {
+          "text": "I am leaving"
+        },
+        {
+          "text": "I am out of here"
+        },
+        {
+          "text": "I d like to stop doing this"
+        },
+        {
+          "text": "I have got to go"
+        },
+        {
+          "text": "I want to quit"
+        },
+        {
+          "text": "I'm done"
+        },
+        {
+          "text": "Im done"
+        },
+        {
+          "text": "Im good thank you"
+        },
+        {
+          "text": "I'm leaving now"
+        },
+        {
+          "text": "It was nice chatting with you"
+        },
+        {
+          "text": "Ok goodbye"
+        },
+        {
+          "text": "See you later"
+        },
+        {
+          "text": "See you"
+        },
+        {
+          "text": "Shut up"
+        },
+        {
+          "text": "Stop doing this"
+        },
+        {
+          "text": "Stop talking to me"
+        },
+        {
+          "text": "Thank you for your time"
+        },
+        {
+          "text": "Thanks, bye!"
+        },
+        {
+          "text": "Thanks very much, bye!"
+        },
+        {
+          "text": "That is all"
+        },
+        {
+          "text": "That's everything"
+        },
+        {
+          "text": "Time to go"
+        }
+      ],
+      "description": "End the conversation."
+    },
+    {
+      "intent": "Customer_Care_Products_Offered",
+      "examples": [
+        {
+          "text": "What products can I get from your company?"
+        },
+        {
+          "text": "Show me retirement products"
+        },
+        {
+          "text": "New products"
+        },
+        {
+          "text": "Need to know what products you have"
+        },
+        {
+          "text": "Items currently sold"
+        },
+        {
+          "text": "Items available?"
+        },
+        {
+          "text": "I would like to know what I can buy"
+        },
+        {
+          "text": "I need information on one of your products"
+        },
+        {
+          "text": "Catalogue look"
+        },
+        {
+          "text": "Show me some cars"
+        },
+        {
+          "text": "Tell me about shoes"
+        },
+        {
+          "text": "What are your business banking products?"
+        },
+        {
+          "text": "What does your business sell?"
+        },
+        {
+          "text": "What does your shop provide?"
+        },
+        {
+          "text": "What kind of products are available?"
+        },
+        {
+          "text": "What kinds of products do you sell?"
+        },
+        {
+          "text": "What potential products or services are available?"
+        },
+        {
+          "text": "What product do you recommend for a tech consultant?"
+        },
+        {
+          "text": "What products are offered in the company?"
+        },
+        {
+          "text": "What products do you offer in the company?"
+        }
+      ],
+      "description": "Find products that are available for purchase."
+    },
+    {
+      "intent": "order",
+      "examples": [
+        {
+          "text": "Take an order"
+        },
+        {
+          "text": "take an order please"
+        },
+        {
+          "text": "I want to place an order"
+        },
+        {
+          "text": "I'd like to place an order."
+        },
+        {
+          "text": "I would like to place an order"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "brands",
+      "examples": [
+        {
+          "text": "dish washing soaps"
+        },
+        {
+          "text": "shampoo"
+        },
+        {
+          "text": "soap"
+        },
+        {
+          "text": "paste"
+        },
+        {
+          "text": "powder"
+        },
+        {
+          "text": "oil"
+        },
+        {
+          "text": "hair oil"
+        },
+        {
+          "text": "clothes washing soaps"
+        },
+        {
+          "text": "surf"
+        }
+      ],
+      "description": "Things that are asked for without mentioning their brand."
+    },
+    {
+      "intent": "General_Human_or_Bot",
+      "examples": [
+        {
+          "text": "Are you real?"
+        },
+        {
+          "text": "Am I talking to a person or am I talking to an AI?"
+        },
+        {
+          "text": "Are you a human or a bot?"
+        },
+        {
+          "text": "Am I talking to a Bot?"
+        },
+        {
+          "text": "Am I talking to Watson?"
+        },
+        {
+          "text": "Am I chatting with a human?"
+        },
+        {
+          "text": "Are you human?"
+        },
+        {
+          "text": "Are you a robot?"
+        },
+        {
+          "text": "Are you even real?"
+        },
+        {
+          "text": "Tell me, are you a human or no?"
+        },
+        {
+          "text": "Is this a computer?"
+        },
+        {
+          "text": "How can you prove you are a human?"
+        }
+      ],
+      "description": "Ask if speaking to a human or a bot."
+    },
+    {
+      "intent": "leavetaking",
+      "examples": [
+        {
+          "text": "see you"
+        },
+        {
+          "text": "good bye until next time"
+        },
+        {
+          "text": "goodbye"
+        },
+        {
+          "text": "bye"
+        },
+        {
+          "text": "see you until next time"
+        },
+        {
+          "text": "Bye, take care"
+        },
+        {
+          "text": "see you soon"
+        },
+        {
+          "text": "see you tomorrow"
+        },
+        {
+          "text": "see you!"
+        }
+      ],
+      "description": ""
+    }
+  ],
+  "entities": [
+    {
+      "entity": "correctorders",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "1/4kg",
+          "synonyms": [
+            "1/4 kg",
+            "1/4 kilo",
+            "1/4kilo",
+            "1/4 kg of"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "1kg chicken",
+          "synonyms": [
+            "1/2kg chicken"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "dozen",
+          "synonyms": [
+            "half dozen",
+            "1/2 dozen",
+            "12",
+            "6"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "can i have some chicken",
+          "synonyms": [
+            "can i have 1kg of chicken",
+            "i would like to have 1kg of chicken"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "i want chicken",
+          "synonyms": [
+            "i want 1 kg of chicken",
+            "i want 1kg of chicken",
+            "i want some vegetables"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "i want 1kg chicken",
+          "synonyms": [
+            "i want 1kg of chicken",
+            "i want 1kilo chicken",
+            "i want some bread"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "1/2lit",
+          "synonyms": [
+            "1/2litre"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "1 litre",
+          "synonyms": [
+            "1 lit",
+            "1litre",
+            "1litre of",
+            "1 litre of"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "2 kg",
+          "synonyms": [
+            "2kg",
+            "2 kilos",
+            "2kilos",
+            "2kilo"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "1 kg",
+          "synonyms": [
+            "1kilo",
+            "1 kilo",
+            "1 kilo of"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "kg",
+          "synonyms": [
+            "kgs",
+            "kilo",
+            "kilogram",
+            "kilograms",
+            "kg of",
+            "kgs of"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "1kg",
+          "synonyms": [
+            "1 kg",
+            "1 kgs",
+            "1 kilo",
+            "1 kg of"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "beetroot",
+          "synonyms": [
+            "beetroots"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "carrot",
+          "synonyms": [
+            "carrots"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "mutton",
+          "synonyms": [
+            "meat",
+            "mutton meat"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "coffee",
+          "synonyms": [
+            "coffee powder"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "cucumber",
+          "synonyms": [
+            "cucumbers"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "onion",
+          "synonyms": [
+            "onions"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "potato",
+          "synonyms": [
+            "potatoes"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "tomato",
+          "synonyms": [
+            "tomatoes"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "i want 2kgs of chicken",
+          "synonyms": [
+            "i want 2kg of chicken",
+            "i want 1kg chicken",
+            "i want 1kg of chicken"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "i want 1kg",
+          "synonyms": [
+            "i want 1kg of"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "i want 2kgs",
+          "synonyms": [
+            "i want 2kgs of",
+            "i want 2kg"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "i want 250g",
+          "synonyms": [
+            "i want 250grams",
+            "i want 250g of",
+            "i want 250 grams of"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "i want 500g",
+          "synonyms": [
+            "i want 500 grams of",
+            "i want 500 grams",
+            "i want 500grams"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "1/2kg",
+          "synonyms": [
+            "1/2 kg",
+            "half kg",
+            "half kilo",
+            "1/2 kilo",
+            "1/2 kg of"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "quantitybasedthings",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "ladies finger",
+          "synonyms": [
+            "i want ladies finger"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "mutton",
+          "synonyms": [
+            "i want mutton",
+            "do you sell mutton?"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "onions",
+          "synonyms": [
+            "onion",
+            "i want onion"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "potato",
+          "synonyms": [
+            "potatoes",
+            "i want potatoes"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "tomato",
+          "synonyms": [
+            "tomatoes",
+            "i want tomato"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "salt",
+          "synonyms": [
+            "i want salt",
+            "i want rock salt",
+            "rock salt"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "sugar",
+          "synonyms": [
+            "i want sugar"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "tamarind",
+          "synonyms": [
+            "i want tamarind"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "tea powder",
+          "synonyms": [
+            "tea",
+            "i want tea powder"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "turmeric powder",
+          "synonyms": [
+            "turmeric",
+            "i want some turmeric"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "vegetables",
+          "synonyms": [
+            "veggies",
+            "i want vegetables",
+            "i want veggies"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "wheat flour",
+          "synonyms": [
+            "i want wheat flour",
+            "i want some wheat flour"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "rice",
+          "synonyms": [
+            "i want rice",
+            "i need rice",
+            "i would like to buy rice",
+            "do you have rice?",
+            "do you have rice",
+            "i want to buy rice"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "milk",
+          "synonyms": [
+            "i need milk",
+            "i want milk",
+            "i want 2 milk packets",
+            "i want a milk packet",
+            "i want to buy some milk",
+            "do you have milk?"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "all purpose flour",
+          "synonyms": [
+            "i want flour",
+            "i need flour"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "basumati rice",
+          "synonyms": [
+            "basmati rice",
+            "i need basumati rice",
+            "i want basumati rice"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "beetroot",
+          "synonyms": [
+            "i want to buy beetroot",
+            "i want beetroot",
+            "i need beetroot"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "bitter guard",
+          "synonyms": [
+            "i want bitter guard",
+            "i need bitter guard",
+            "i want to buy bitter guard"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "oil",
+          "synonyms": [
+            "i want oil",
+            "i need oil",
+            "i want to buy oil"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "oats",
+          "synonyms": [
+            "i want oats",
+            "do you sell oats?"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "carrot",
+          "synonyms": [
+            "i want to buy carrot",
+            "i want carrots",
+            "i want carrot",
+            "i need carrot",
+            "do you have carrots?",
+            "do you sell carrot?"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "chicken",
+          "synonyms": [
+            "i want chicken",
+            "i need chicken",
+            "meat",
+            "i want to buy chicken",
+            "do you have chicken"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "coffee",
+          "synonyms": [
+            "coffee powder",
+            "i want coffee powder"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "fish",
+          "synonyms": [
+            "i want fish",
+            "i want to buy fish",
+            "do you sell fish?"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "ginger",
+          "synonyms": [
+            "do you have ginger?",
+            "do you sell ginger?",
+            "i want some ginger",
+            "i want to buy some ginger"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "gram flour",
+          "synonyms": [
+            "i want gram flour"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "want",
+          "synonyms": [
+            "need",
+            "do you sell"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "jaggery",
+          "synonyms": [
+            "i want jaggery"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "namedorders",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "detergent",
+          "synonyms": [
+            "surf",
+            "washing powder"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "soap",
+          "synonyms": [
+            "soaps",
+            "i want soaps",
+            "do you have soaps?"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "do you have",
+          "synonyms": [
+            "i want"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "shampoo",
+          "synonyms": [
+            "shampoos",
+            "i want shampoo"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "paste",
+          "synonyms": [
+            "pastes",
+            "i want paste"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "clothes washing soaps",
+          "synonyms": [
+            "washing soaps"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "oil",
+          "synonyms": [
+            "vegetable oil",
+            "palm oil",
+            "groundnut oil",
+            "sunflower oil"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "order",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "place an order",
+          "synonyms": [
+            "I want some help",
+            "take an order"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "leavetaking",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "bye",
+          "synonyms": [
+            "goodbye",
+            "see you soon",
+            "see you",
+            "see you until next time",
+            "bye bye",
+            "see you, bye"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "goodbye",
+          "synonyms": [
+            "bye"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "greet",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "how are you?",
+          "synonyms": [
+            "how are you doing?",
+            "how do you do?",
+            "hey, how are you?",
+            "how you doing?",
+            "how is your health?",
+            "hello, how are you?",
+            "hi, how are you?",
+            "hi how are you"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "doubts",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "bill",
+          "synonyms": [
+            "amount",
+            "cost",
+            "payment",
+            "bill?"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "how much is the bill?",
+          "synonyms": [
+            "what is the total amount?",
+            "how much all of these cost?"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "greeting",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "hello",
+          "synonyms": [
+            "hi",
+            "hey",
+            "heya"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "good morning",
+          "synonyms": [
+            "goodmorning",
+            "hey, good morning!",
+            "hey, good morning",
+            "hey,good morning",
+            "hello, good morning",
+            "hi good morning",
+            "morning"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "hi",
+          "synonyms": [
+            "hai",
+            "hey",
+            "hello",
+            "hey!"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "good night",
+          "synonyms": [
+            "good night sweet dreams",
+            "Have a good night",
+            "have a good sleep",
+            "nighty night"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "good evening",
+          "synonyms": [
+            "hey,good evening!"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "ending",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "buy",
+          "synonyms": [
+            "purchase"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "want",
+          "synonyms": [
+            "need"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "dont",
+          "synonyms": [
+            "don't",
+            "do not"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "no",
+          "synonyms": [
+            "nothing",
+            "i dont want anything else",
+            "no these are enough",
+            "enough of them ",
+            "no nothing else is needed",
+            "no nothing"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "thanks",
+          "synonyms": [
+            "thankyou",
+            "thank you"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "question",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "how can you help me?",
+          "synonyms": [
+            "what kind of help can you offer?",
+            "what are your abilities?",
+            "what do you deal with?"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    }
+  ],
+  "metadata": {
+    "api_version": {
+      "major_version": "v2",
+      "minor_version": "2018-11-08"
+    },
+    "from-sample": true
+  },
+  "dialog_nodes": [
+    {
+      "type": "response_condition",
+      "output": {
+        "text": {
+          "values": [],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_9_1587741020185",
+      "conditions": "#greeting",
+      "dialog_node": "response_6_1587743063619",
+      "previous_sibling": "response_6_1587742084378"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "text": {
+          "values": [
+            "Very good morning!"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_9_1587741020185",
+      "conditions": "#greeting",
+      "dialog_node": "response_6_1587742084378",
+      "previous_sibling": "response_5_1587741869229"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "@greeting"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_9_1587741020185",
+      "conditions": "@greeting",
+      "dialog_node": "response_5_1587741869229"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "text": {
+          "values": [
+            "Tell me what you want?"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_7_1587748573208",
+      "conditions": "@order",
+      "dialog_node": "response_2_1587748673706",
+      "previous_sibling": "response_4_1587748594953"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Yes, please tell me what you want?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_7_1587748573208",
+      "conditions": "#order",
+      "dialog_node": "response_4_1587748594953"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "How much you want? Please specify the quantity of the product."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_8_1587750150643",
+      "conditions": "#quantitylessproducts",
+      "dialog_node": "response_5_1587750175358"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Tell me which brand you prefer?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_9_1587756224955",
+      "conditions": "#brands",
+      "dialog_node": "response_1_1587756258346"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "text": {
+          "values": [
+            "We have them for you. What else do you want?"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_9_1587756030851",
+      "conditions": "@correctorders",
+      "dialog_node": "response_8_1587786542170",
+      "previous_sibling": "response_9_1587786508186"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "text": {
+          "values": [
+            "yes we have it."
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_9_1587756030851",
+      "conditions": "#correctorders",
+      "dialog_node": "response_3_1587784962360",
+      "previous_sibling": "response_10_1587756132379"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "text": {
+          "values": [
+            "We have what you're looking for. Do you want to shop more?"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_9_1587756030851",
+      "conditions": "@correctorders",
+      "dialog_node": "response_10_1587756132379",
+      "previous_sibling": "response_3_1587756053430"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "text": {
+          "values": [
+            "Yes, we have them."
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_9_1587756030851",
+      "conditions": "#correctorders",
+      "dialog_node": "response_9_1587786508186",
+      "previous_sibling": "response_3_1587784962360"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Yes, We have it. What else do you want?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_9_1587756030851",
+      "conditions": "#correctorders",
+      "dialog_node": "response_3_1587756053430"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "text": {
+          "values": [
+            "Your order has been successfully placed. Thanks for shopping with us. Stay safe. if you're out, you will be out."
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_1_1587758009682",
+      "conditions": "#ending",
+      "dialog_node": "response_2_1587758176113",
+      "previous_sibling": "response_9_1587758024052"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "text": {
+          "values": [
+            "Your order has been placed successfully and delivered soon. Stay home and save lives."
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_1_1587758009682",
+      "conditions": "@ending",
+      "dialog_node": "response_3_1587788640031",
+      "previous_sibling": "response_2_1587758176113"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": " Thanks for shopping with us. Your order will be delivered soon. Stay home and stay safe"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_1_1587758009682",
+      "conditions": "#ending",
+      "dialog_node": "response_9_1587758024052"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "text": {
+          "values": [
+            "Sure, we have them. Anything else?"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_4_1587786954054",
+      "conditions": "#correctorders",
+      "dialog_node": "response_5_1587787022802",
+      "previous_sibling": "response_7_1587786976758"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Yes we have them. What else do you want?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_4_1587786954054",
+      "conditions": "@correctorders",
+      "dialog_node": "response_7_1587786976758"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "text": {
+          "values": [
+            "I'm doing great.Thank you!"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_6_1587742198138",
+      "conditions": "@greet",
+      "dialog_node": "response_5_1587744236833",
+      "previous_sibling": "response_4_1587742784761"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "text": {
+          "values": [
+            "I'm great, thanks for asking"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_6_1587742198138",
+      "conditions": "#greet",
+      "dialog_node": "response_4_1587742784761",
+      "previous_sibling": "response_9_1587742682151"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "I'm doing great, thanks for asking. What can I help you with?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_6_1587742198138",
+      "conditions": "@greet",
+      "dialog_node": "response_9_1587742682151"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "text": {
+          "values": [
+            "We have them available for you.Anything else?"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_1_1587757189966",
+      "conditions": "@namedorders",
+      "dialog_node": "response_6_1587757264515",
+      "previous_sibling": "response_5_1587757205109"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Yes, we have them. What else would you like to buy?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_1_1587757189966",
+      "conditions": "#namedorders",
+      "dialog_node": "response_5_1587757205109"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "text": {
+          "values": [
+            "I can help in delivering needs based on your orders."
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_4_1587746054978",
+      "conditions": "@question",
+      "dialog_node": "response_5_1587746246565",
+      "previous_sibling": "response_9_1587746074976"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "I will help you in getting your basic needs and essentials delivered to home."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_4_1587746054978",
+      "conditions": "#question",
+      "dialog_node": "response_9_1587746074976"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "text": {
+          "values": [
+            "You can pay the bill after delivering the goods directly to our agent."
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_9_1587757594777",
+      "conditions": "@doubts",
+      "dialog_node": "response_10_1587757692042",
+      "previous_sibling": "response_3_1587757612074"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Don't worry. Our delivery agent will get you the bill along with the supplies. You can pay it then."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_9_1587757594777",
+      "conditions": "#doubts",
+      "dialog_node": "response_3_1587757612074"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "text": {
+          "values": [
+            "Bye bye"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_10_1587745270802",
+      "conditions": "#General_Ending",
+      "dialog_node": "response_2_1587745632106",
+      "previous_sibling": "response_5_1587745460858"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "text": {
+          "values": [
+            "@leavetaking"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_10_1587745270802",
+      "conditions": "@leavetaking",
+      "dialog_node": "response_3_1587745312848",
+      "previous_sibling": "response_4_1587745293762"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "text": {
+          "values": [
+            "See you soon!"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_10_1587745270802",
+      "conditions": "@leavetaking",
+      "dialog_node": "response_5_1587745460858",
+      "previous_sibling": "response_8_1587745329315"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "text": {
+          "values": [
+            "Bye! Take care."
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_10_1587745270802",
+      "conditions": "#leavetaking",
+      "dialog_node": "response_8_1587745329315",
+      "previous_sibling": "response_3_1587745312848"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Bye!"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_10_1587745270802",
+      "conditions": "#leavetaking",
+      "dialog_node": "response_4_1587745293762"
+    },
+    {
+      "type": "standard",
+      "title": "greet",
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "conditions": "#greet || @greet",
+      "dialog_node": "node_6_1587742198138",
+      "previous_sibling": "node_9_1587741020185"
+    },
+    {
+      "type": "standard",
+      "title": "queryonquantity",
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "conditions": "#quantitylessproducts || @quantitybasedthings",
+      "dialog_node": "node_8_1587750150643",
+      "previous_sibling": "node_7_1587748573208"
+    },
+    {
+      "type": "standard",
+      "title": "Brand choices",
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "conditions": "#brands",
+      "dialog_node": "node_9_1587756224955",
+      "previous_sibling": "node_8_1587750150643"
+    },
+    {
+      "type": "standard",
+      "title": "correct orders",
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "conditions": "#correctorders || @correctorders",
+      "dialog_node": "node_9_1587756030851",
+      "previous_sibling": "node_9_1587756224955"
+    },
+    {
+      "type": "standard",
+      "title": "Named orders",
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "conditions": "#namedorders || @namedorders",
+      "dialog_node": "node_1_1587757189966",
+      "previous_sibling": "node_9_1587756030851"
+    },
+    {
+      "type": "standard",
+      "title": "response",
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "conditions": "#correctorders || @correctorders",
+      "dialog_node": "node_4_1587786954054",
+      "previous_sibling": "node_1_1587758009682"
+    },
+    {
+      "type": "standard",
+      "title": "Anything else",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "I didn't understand. You can try rephrasing."
+              },
+              {
+                "text": "Can you reword your statement? I'm not understanding."
+              },
+              {
+                "text": "I didn't get your meaning."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "anything_else",
+      "dialog_node": "Anything else",
+      "previous_sibling": "node_4_1587786954054",
+      "disambiguation_opt_out": true
+    },
+    {
+      "type": "standard",
+      "title": "leavetaking",
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "conditions": "#leavetaking",
+      "dialog_node": "node_10_1587745270802",
+      "previous_sibling": "node_6_1587742198138"
+    },
+    {
+      "type": "standard",
+      "title": "Customer queries",
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "conditions": "#doubts && @doubts",
+      "dialog_node": "node_9_1587757594777",
+      "previous_sibling": "node_1_1587757189966"
+    },
+    {
+      "type": "standard",
+      "title": "order",
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "conditions": "#order || @order",
+      "dialog_node": "node_7_1587748573208",
+      "previous_sibling": "node_4_1587746054978"
+    },
+    {
+      "type": "standard",
+      "title": "Ending lines",
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "conditions": "#ending && @ending",
+      "dialog_node": "node_1_1587758009682",
+      "previous_sibling": "node_9_1587757594777"
+    },
+    {
+      "type": "standard",
+      "title": "greeting",
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "conditions": "#greeting || @greeting",
+      "dialog_node": "node_9_1587741020185",
+      "previous_sibling": "Welcome"
+    },
+    {
+      "type": "standard",
+      "title": "question",
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "conditions": "#question || @question",
+      "dialog_node": "node_4_1587746054978",
+      "previous_sibling": "node_10_1587745270802"
+    },
+    {
+      "type": "standard",
+      "title": "Welcome",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Hello. How can I help you?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "welcome",
+      "dialog_node": "Welcome"
+    }
+  ],
+  "counterexamples": [],
+  "system_settings": {
+    "off_topic": {
+      "enabled": true
+    },
+    "disambiguation": {
+      "prompt": "Did you mean:",
+      "enabled": true,
+      "randomize": true,
+      "max_suggestions": 5,
+      "suggestion_text_policy": "title",
+      "none_of_the_above_prompt": "None of the above"
+    },
+    "system_entities": {
+      "enabled": true
+    },
+    "human_agent_assist": {
+      "prompt": "Did you mean:"
+    },
+    "spelling_auto_correct": true
+  },
+  "learning_opt_out": false,
+  "name": "My first skill",
+  "language": "en",
+  "description": ""
+}
